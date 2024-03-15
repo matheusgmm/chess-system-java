@@ -17,3 +17,7 @@ I
 src/chess/ChessMatch.java,a/f/afffe56e7c2d80517c9aec9f344453fe3e900f7c
 G
 src/application/UI.java,f/0/f00b20a2ba12c03e5a4a25b29cdf3cfe45d9a93c
+J
+src/chess/pieces/Rook.java,f/f/ff69bb3f200ec2b38c7858168986f747562072f9
+J
+src/chess/pieces/King.java,d/9/d9b3000faae84ba619d472bc343f9814addae9c3
