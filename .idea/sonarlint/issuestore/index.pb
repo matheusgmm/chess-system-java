@@ -25,3 +25,5 @@ M
 src/chess/ChessException.java,2/1/21d85c75bbb5dc0c23b50ef6b7f244499ea59f9e
 L
 src/chess/ChessPosition.java,9/0/90a7f058c20369970d1f5d1c161ad421280924ef
+J
+src/chess/pieces/Pawn.java,d/2/d21ccb70ebdc2d41253dc9c5fdfe59b6a05be647
