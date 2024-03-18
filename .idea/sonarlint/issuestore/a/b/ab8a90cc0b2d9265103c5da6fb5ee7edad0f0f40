@@ -1,9 +1,15 @@
 
+D
+java:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ8ž¥©Šå1
 ^
-java:S1854"ARemove this useless assignment to local variable "capturedPiece".(¤ìïö8Õ–Æ‰å1
-L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8Ú–Æ‰å1
-F	java:S106"+Replace this use of System.out by a logger.(èÕªm8Ú–Æ‰å1
-L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8Ú–Æ‰å1
-G	java:S106"+Replace this use of System.out by a logger.(¤ûŒµ8Û–Æ‰å1
+java:S1854"ARemove this useless assignment to local variable "capturedPiece".(¤ìïö8Ÿ¥©Šå1
+f
+java:S2147""DCombine this catch with the one at line 31, which has the same body.(¦Œçõÿÿÿÿÿ8®õªŠå1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8¢¥©Šå1
+F	java:S106"+Replace this use of System.out by a logger.(èÕªm8¢¥©Šå1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8¢¥©Šå1
+G	java:S106"+Replace this use of System.out by a logger.(¤ûŒµ8¢¥©Šå1
 O
-java:S1481"2Remove this unused "capturedPiece" local variable.(¤ìïö8Û–Æ‰å1
+java:S1481"2Remove this unused "capturedPiece" local variable.(¤ìïö8£¥©Šå1
+L	java:S106 "+Replace this use of System.out by a logger.(©þêÜúÿÿÿÿ8£¥©Šå1
+L	java:S106#"+Replace this use of System.out by a logger.(©þêÜúÿÿÿÿ8±õªŠå1
