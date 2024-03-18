@@ -1,0 +1,9 @@
+
+^
+java:S1854"ARemove this useless assignment to local variable "capturedPiece".(¤ìïö8Õ–Æ‰å1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8Ú–Æ‰å1
+F	java:S106"+Replace this use of System.out by a logger.(èÕªm8Ú–Æ‰å1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8Ú–Æ‰å1
+G	java:S106"+Replace this use of System.out by a logger.(¤ûŒµ8Û–Æ‰å1
+O
+java:S1481"2Remove this unused "capturedPiece" local variable.(¤ìïö8Û–Æ‰å1
