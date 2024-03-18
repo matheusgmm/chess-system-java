@@ -5,9 +5,9 @@ java:S1118
 G	java:S106 "+Replace this use of System.out by a logger.(Îœò—8ƒ½žŠå1
 G	java:S106!"+Replace this use of System.out by a logger.(ÚŽÂâ8…½žŠå1
 G	java:S1060"+Replace this use of System.out by a logger.(ï„Žï8…½žŠå1
-L	java:S1064"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8…½žŠå1
+L	java:S1064"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8†½žŠå1
 L	java:S1066"+Replace this use of System.out by a logger.(Â«…ßýÿÿÿÿ8†½žŠå1
 L	java:S106;"+Replace this use of System.out by a logger.(¹¦Ô„ÿÿÿÿÿ8†½žŠå1
 F	java:S106?"+Replace this use of System.out by a logger.(Æ‡Ç8†½žŠå1
-G	java:S106B"+Replace this use of System.out by a logger.(‰ÿË´8†½žŠå1
-G	java:S106E"+Replace this use of System.out by a logger.(×•œ²8Œ…ŸŠå1
+G	java:S106B"+Replace this use of System.out by a logger.(‰ÿË´8Œ…ŸŠå1
+G	java:S106E"+Replace this use of System.out by a logger.(×•œ²8—ª¼Šå1
