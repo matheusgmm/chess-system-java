@@ -1,6 +1,4 @@
 
-=
-src/Main.java,9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138
 L
 src/application/Program.java,a/b/ab8a90cc0b2d9265103c5da6fb5ee7edad0f0f40
 K
@@ -27,3 +25,5 @@ M
 src/chess/ChessException.java,2/1/21d85c75bbb5dc0c23b50ef6b7f244499ea59f9e
 L
 src/chess/ChessPosition.java,9/0/90a7f058c20369970d1f5d1c161ad421280924ef
+J
+src/chess/pieces/Pawn.java,d/2/d21ccb70ebdc2d41253dc9c5fdfe59b6a05be647
