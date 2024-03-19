@@ -27,3 +27,5 @@ L
 src/chess/ChessPosition.java,9/0/90a7f058c20369970d1f5d1c161ad421280924ef
 J
 src/chess/pieces/Pawn.java,d/2/d21ccb70ebdc2d41253dc9c5fdfe59b6a05be647
+L
+src/chess/pieces/Bishop.java,e/b/eb7ad43a61e450b7ce09ff6a1411f820b9f2ca7d
