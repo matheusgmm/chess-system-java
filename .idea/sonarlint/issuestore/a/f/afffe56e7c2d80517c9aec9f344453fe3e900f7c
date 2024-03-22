@@ -1,17 +1,17 @@
 
 Q
-java:S1066_"/Merge this if statement with the enclosing one.(ª›Ô†øÿÿÿÿ8Ã›³¯æ1
+java:S1066^"/Merge this if statement with the enclosing one.(ª›Ô†øÿÿÿÿ8Ã›³¯æ1
 R
-java:S1066´"/Merge this if statement with the enclosing one.(Ç–ˆôüÿÿÿÿ8Ä›³¯æ1
+java:S1066³"/Merge this if statement with the enclosing one.(Ç–ˆôüÿÿÿÿ8Ä›³¯æ1
 R
-java:S1066ç"/Merge this if statement with the enclosing one.(—¯¹ªúÿÿÿÿ8Ä›³¯æ1
+java:S1066æ"/Merge this if statement with the enclosing one.(—¯¹ªúÿÿÿÿ8Ä›³¯æ1
 J
-java:S1125e"(Remove the unnecessary boolean literals.(ğîÄøÿÿÿÿ8ºœ³¯æ1
+java:S1125d"(Remove the unnecessary boolean literals.(ğîÄøÿÿÿÿ8ºœ³¯æ1
 p
-java:S6204‘"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(óüË¨8Áœ³¯æ1
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(óüË¨8Áœ³¯æ1
 u
-java:S6204œ"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ı—üÿÿÿÿ8Áœ³¯æ1
+java:S6204›"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ı—üÿÿÿÿ8Áœ³¯æ1
 p
-java:S3776¦"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Üé¢à8Âœ³¯æ1
+java:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Üé¢à8Âœ³¯æ1
 p
-java:S6204ª"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(óüË¨8Âœ³¯æ1
+java:S6204©"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(óüË¨8Âœ³¯æ1
