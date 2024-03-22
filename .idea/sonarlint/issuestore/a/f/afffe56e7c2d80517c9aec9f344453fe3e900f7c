@@ -1,11 +1,15 @@
 
+R
+java:S1066‰"/Merge this if statement with the enclosing one.(Η–τόÿÿÿÿ8”εσ®ζ1
+R
+java:S1066Ό"/Merge this if statement with the enclosing one.(—―Ήªϊÿÿÿÿ8•εσ®ζ1
 J
-java:S1125L"(Remove the unnecessary boolean literals.(πξΔψÿÿÿÿ8Ρ Π­ζ1
+java:S1125T"(Remove the unnecessary boolean literals.(πξΔψÿÿÿÿ8ρεσ®ζ1
 p
-java:S6204·"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(σόΛ¨8Ϋ Π­ζ1
+java:S6204ζ"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(σόΛ¨8ωεσ®ζ1
 u
-java:S6204Β"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ύ—όÿÿÿÿ8ά Π­ζ1
+java:S6204ρ"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ύ—όÿÿÿÿ8ϋεσ®ζ1
 p
-java:S3776Μ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(άιΆΰ8έ Π­ζ1
+java:S3776ϋ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(άιΆΰ8όεσ®ζ1
 p
-java:S6204Π"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(σόΛ¨8έ Π­ζ1
+java:S6204ÿ"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(σόΛ¨8ύεσ®ζ1
