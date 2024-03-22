@@ -1,3 +1,9 @@
 
+k
+java:S4201"IRemove this unnecessary null check; "instanceof" returns false for nulls.(¹¯óêúÿÿÿÿ8úþë²å1
 o
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.( ¤¸Ü8Æ’ÅŒå1
+java:S3776!"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.( ¤¸Ü8úþë²å1
+V
+java:S1854c"9Remove this useless assignment to local variable "posT2".(ËÊïã8 ¦ó²å1
+G
+java:S1481c"*Remove this unused "posT2" local variable.(ËÊïã8£¦ó²å1
